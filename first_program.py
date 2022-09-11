@@ -1,2 +1,3 @@
 fname = "Francisca"
-print("hello world",fname)
+lname = "Anima"
+print("hello world.","My name is", fname, lname)
